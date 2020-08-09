@@ -1,0 +1,14 @@
+.searchbox{
+    width:25%;
+    background-color:rgb(156, 233, 153);
+    color:black;
+    font-size: 100%;
+    padding: 10px;
+    border: 1px solid blue;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    position: relative;
+    padding-left:10px;
+    margin-left: 25px;
+ }
