@@ -14,7 +14,7 @@ const Form = ({ formState, onChange, onSubmit }) => {
 
     return (
         <div className="formdiv">
-            <h1>MOVIE FORM</h1>
+            <h1>MOVIE </h1>
             <form className="form" onSubmit={onSubmit}>
                 <fieldset>
                     <Field
